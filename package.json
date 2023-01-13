@@ -1,5 +1,5 @@
 {
-  "name": "catstronauts-client-complete",
+  "name": "catstronauts-client",
   "version": "1.0.0",
   "private": true,
   "description": "front-end demo app for Apollo's lift-off IV course",
@@ -47,9 +47,6 @@
     "@testing-library/user-event": "^7.1.2",
     "apollo": "^2.30.2"
   },
-  "engines":{
-    "npm":"8.5.0"
-   },
   "main": "src/index.js",
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT"
